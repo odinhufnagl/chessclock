@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Ur chessClock",
+    "slug": "ur-chessclock",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/be103a06-d457-49f2-9bd0-a5c62cc802a7_200x200.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+   
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/be103a06-d457-49f2-9bd0-a5c62cc802a7_200x200.png",
+        "backgroundColor": "#FFFFFF"
+        
+      },
+      "package": "com.urchessclock",
+      "permissions": []
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
