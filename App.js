@@ -10,6 +10,7 @@ export default function App() {
     <NavigationContainer>
       <StatusBar style="auto" />
       <SafeAreaView style={{flex: 1}}>
+      <Text>hello</Text>
       <Router></Router>
     
 
